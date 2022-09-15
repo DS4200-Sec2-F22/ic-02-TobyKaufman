@@ -1,12 +1,16 @@
 * {
     font: arial;
 }
-body {
-    text-align: center;
-}
 h1 {
     text-align: center
 }
 h2 {
     text-align: center
+}
+.container {
+    border-style: solid;
+    border-color: black;
+}
+#p1 {
+    color: darkgreen;
 }
